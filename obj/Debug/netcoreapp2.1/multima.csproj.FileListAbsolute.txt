@@ -1,0 +1,11 @@
+C:\Users\COMPAC\multima\bin\Debug\netcoreapp2.1\multima.deps.json
+C:\Users\COMPAC\multima\bin\Debug\netcoreapp2.1\multima.runtimeconfig.json
+C:\Users\COMPAC\multima\bin\Debug\netcoreapp2.1\multima.runtimeconfig.dev.json
+C:\Users\COMPAC\multima\bin\Debug\netcoreapp2.1\multima.dll
+C:\Users\COMPAC\multima\bin\Debug\netcoreapp2.1\multima.pdb
+C:\Users\COMPAC\multima\obj\Debug\netcoreapp2.1\multima.csprojAssemblyReference.cache
+C:\Users\COMPAC\multima\obj\Debug\netcoreapp2.1\multima.csproj.CoreCompileInputs.cache
+C:\Users\COMPAC\multima\obj\Debug\netcoreapp2.1\multima.AssemblyInfoInputs.cache
+C:\Users\COMPAC\multima\obj\Debug\netcoreapp2.1\multima.AssemblyInfo.cs
+C:\Users\COMPAC\multima\obj\Debug\netcoreapp2.1\multima.dll
+C:\Users\COMPAC\multima\obj\Debug\netcoreapp2.1\multima.pdb
